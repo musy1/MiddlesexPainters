@@ -39,5 +39,12 @@
     "postcss-import": "^12.0.1",
     "postcss-preset-env": "^6.6.0",
     "sitemap": "^2.1.0"
+  },
+  "scripts": {
+    "start": "sanity start",
+    "test": "sanity check",
+    "build": "sanity build public -y"
   }
+ 
+
 }
