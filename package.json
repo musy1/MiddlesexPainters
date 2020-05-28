@@ -16,10 +16,5 @@
   "devDependencies": {
     "@sanity/cli": "^1.149.13",
     "lerna": "^3.9.0"
-  },
-  "scripts": {
-    "start": "sanity start",
-    "test": "sanity check",
-    "build": "sanity build public -y"
   }
 }
